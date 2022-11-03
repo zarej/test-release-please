@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/zarej/test-release-please/compare/v1.0.0...v1.0.1) (2022-11-03)
+
+
+### Bug Fixes
+
+* updated git workflow to work for develop ([a71011d](https://github.com/zarej/test-release-please/commit/a71011d26c3ee3f5290a54dca9f86221cfd5aa4e))
+* updated testiranje[#6](https://github.com/zarej/test-release-please/issues/6) ([92fcbbc](https://github.com/zarej/test-release-please/commit/92fcbbca77afb099bf981b41a3954392c30ae6f0))
+
 ## 1.0.0 (2022-11-03)
 
 
