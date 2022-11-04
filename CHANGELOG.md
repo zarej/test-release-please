@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.2](https://github.com/zarej/test-release-please/compare/v1.1.1...v1.1.2) (2022-11-04)
+
+
+### Bug Fixes
+
+* updated testiranje 12 ([3abfbe3](https://github.com/zarej/test-release-please/commit/3abfbe3dfed1238420bf22b1938c3caa98eefe9a))
+* updated testiranje 13 ([63633f7](https://github.com/zarej/test-release-please/commit/63633f7a21b906705d11c076004616fa24b545e0))
+
 ## [1.1.1](https://github.com/zarej/test-release-please/compare/v1.1.0...v1.1.1) (2022-11-03)
 
 
