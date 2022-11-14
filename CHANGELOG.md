@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/zarej/test-release-please/compare/v1.1.2...v1.2.0) (2022-11-07)
+
+
+### Features
+
+* **trips-38:** update testiranje2 ([fad33fd](https://github.com/zarej/test-release-please/commit/fad33fd9f1dbb3124069e381fff2d9ca85a5e11e))
+
+
+### Bug Fixes
+
+* merge done ([e0712f0](https://github.com/zarej/test-release-please/commit/e0712f0cfd7cf9e023f1fe60e076ee2381815bd6))
+
 ## [1.1.2](https://github.com/zarej/test-release-please/compare/v1.1.1...v1.1.2) (2022-11-04)
 
 
