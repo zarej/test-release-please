@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.3](https://github.com/zarej/test-release-please/compare/v1.2.2...v1.2.3) (2022-11-14)
+
+
+### Bug Fixes
+
+* test20 ([2a5105b](https://github.com/zarej/test-release-please/commit/2a5105b4350cf63f3712b2505cd927ad9050d1f3))
+* updateed gitflow for develop ([6e4f44f](https://github.com/zarej/test-release-please/commit/6e4f44fbdec188b74e69b26406c7af67b3c6d819))
+
 ## [1.2.2](https://github.com/zarej/test-release-please/compare/v1.2.1...v1.2.2) (2022-11-14)
 
 
