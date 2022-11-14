@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/zarej/test-release-please/compare/v1.2.0...v1.2.1) (2022-11-14)
+
+
+### Bug Fixes
+
+* merge branch 'develop' of github.com:zarej/test-release-please into develop ([5211d9f](https://github.com/zarej/test-release-please/commit/5211d9f89f4b166dc665cdbdd37767558af35906))
+* test 15 ([d5d261e](https://github.com/zarej/test-release-please/commit/d5d261e074a390125e163e43ba8d457423acc994))
+
 ## [1.2.0](https://github.com/zarej/test-release-please/compare/v1.1.2...v1.2.0) (2022-11-07)
 
 
