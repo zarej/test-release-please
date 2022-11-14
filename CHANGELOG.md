@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.2](https://github.com/zarej/test-release-please/compare/v1.2.1...v1.2.2) (2022-11-14)
+
+
+### Bug Fixes
+
+* test 16 ([53631a4](https://github.com/zarej/test-release-please/commit/53631a4b90d05a2ae5282c5a2841c35c23c644b5))
+* test 17 ([94710c6](https://github.com/zarej/test-release-please/commit/94710c66842295c78fedb26ed5a86ed6d0525c9b))
+
 ## [1.2.1](https://github.com/zarej/test-release-please/compare/v1.2.0...v1.2.1) (2022-11-14)
 
 
