@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.4](https://github.com/zarej/test-release-please/compare/v1.2.3...v1.2.4) (2022-11-22)
+
+
+### Bug Fixes
+
+* **task-123:** test21 ([da353c1](https://github.com/zarej/test-release-please/commit/da353c186044c88d3477628acd5a829f0b1e6a43))
+
 ## [1.2.3](https://github.com/zarej/test-release-please/compare/v1.2.2...v1.2.3) (2022-11-14)
 
 
